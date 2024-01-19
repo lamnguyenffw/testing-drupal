@@ -1,0 +1,13 @@
+type: module
+name: "Flow (automation)"
+description: "Automates your workflow on content."
+core_version_requirement: ^9.4 || ^10
+package: Other
+configure: flow.settings
+dependencies:
+  - drupal:serialization
+
+# Information added by Drupal.org packaging script on 2023-04-07
+version: '1.0.0-beta17'
+project: 'flow'
+datestamp: 1680907630
